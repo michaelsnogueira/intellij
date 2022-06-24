@@ -1,0 +1,23 @@
+<application>
+  <component name="aws">
+    <option name="promptedForTelemetry" value="true" />
+  </component>
+  <component name="executables">
+    <option name="value">
+      <list>
+        <ExecutableState>
+          <option name="autoResolved" value="true" />
+          <option name="executablePath" value="C:\Program Files\Amazon\AWSSAMCLI\bin\sam.cmd" />
+          <option name="id" value="samCli" />
+          <option name="lastKnownFileTime" value="1619209344000" />
+        </ExecutableState>
+        <ExecutableState>
+          <option name="autoResolved" value="true" />
+          <option name="executablePath" value="C:\Program Files\Amazon\AWSCLIV2\aws.exe" />
+          <option name="id" value="awsCli" />
+          <option name="lastKnownFileTime" value="1602807398000" />
+        </ExecutableState>
+      </list>
+    </option>
+  </component>
+</application>
