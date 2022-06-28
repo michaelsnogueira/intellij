@@ -1,5 +1,6 @@
 <application>
   <component name="MaterialThemeConfig">
+    <option name="UIFont" value="Fira Code Light" />
     <option name="contrastMode" value="true" />
     <option name="highContrast" value="true" />
     <option name="highlightColorEnabled" value="true" />
@@ -17,5 +18,6 @@
     <option name="selectedTheme" value="DEEPOCEAN" />
     <option name="userId" value="7b894656:17b3502ddb8:-8000" />
     <option name="version" value="7.5.3" />
+    <option name="uiFont" value="Fira Code Light" />
   </component>
 </application>
